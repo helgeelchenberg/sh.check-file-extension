@@ -1,0 +1,1 @@
+# sh.check-file-extension
